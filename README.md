@@ -1,2 +1,2 @@
 # linguagem-programacao
-Linguagem de Programação
+Materiais utilizados na disciplina de Linguagem de Programação
